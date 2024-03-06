@@ -19,6 +19,8 @@ function isPalindrome(word) {
 
 /*
   Add written explanation of your solution here
+  make a variable for reversed word and make this word as array then reverse it,
+  the loop over word and reversed word if they are the same then return true
 */
 
 // You can run `node index.js` to view these console logs
